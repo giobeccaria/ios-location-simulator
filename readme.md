@@ -24,7 +24,7 @@ This tool is particularly useful for developers and testers of mobile applicatio
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ios-location-simulator.git
+    git clone https://github.com/giobeccaria/ios-location-simulator.git
     cd ios-location-simulator
     ```
 
